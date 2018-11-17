@@ -2164,6 +2164,8 @@ To resolve this:
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 # CA3-FrontEnd
 # CA3-FrontEnd
-#   C A 3 - F r o n t E n d  
- #   C A 3 - F r o n t E n d  
- 
+#   C A 3 - F r o n t E n d 
+ 
+ #   C A 3 - F r o n t E n d 
+ 
+ 
